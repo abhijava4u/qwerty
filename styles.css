@@ -1,0 +1,35 @@
+body{
+margin: -2px;
+}
+
+
+header{
+background: black; 
+    
+}
+nav{
+    
+text-align: right;
+    margin: 20x;
+    
+font-size: 20px;
+    word-spacing: 20px;
+}
+#qwerty{
+    color:  white;
+
+    
+}
+#picone{
+    float: left;
+    margin-right: 20px;
+}
+#pictwo{
+    float: left;
+    margin-right: 20px;
+}
+#picth{
+    float: left;
+    margin-right: 20px;
+    
+}
